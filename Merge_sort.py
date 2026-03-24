@@ -1,3 +1,4 @@
+# Code 1
 def merge(nums,l,mid,r):
     a=[]
     b=[]
@@ -26,6 +27,7 @@ def merge(nums,l,mid,r):
             j+=1
             k+=1
 
+# Code 2
 def mergeSort(nums,l,r):
     if(l>=r):
         return
